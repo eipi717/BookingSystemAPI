@@ -4,6 +4,10 @@
 [![license](https://img.shields.io/github/license/dec0dOS/amazing-github-template.svg?style=flat-square)](LICENSE)
 [![made by eipi717](https://img.shields.io/badge/made%20by-eipi717-ff1414.svg?style=flat-square)](https://www.linkedin.com/in/nicholas-ho-954053216/)
 
+[![API](https://img.shields.io/badge/Backend-API-yellow)](https://github.com/eipi717/BookingSystemAPI)
+[![Web](https://img.shields.io/badge/Frontend-Web-purple)]()
+[![Recommender](https://img.shields.io/badge/Component-Reconneder-blue)](https://github.com/eipi717/BookingSystemRecommender)
+
 </div>
 
 ## Table Of Content
