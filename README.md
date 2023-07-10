@@ -19,7 +19,10 @@
   * [Links](#links)
 
 ## Description
-This is a project that allows users to book lessons. It can be used for all business sizes. List of lessons, bookings and recommended lessons will be all provided in this application.
+This is a project that allows users to book lessons.
+It can be used for all business sizes.
+List of lessons, bookings and recommended lessons will be all provided in this application.
+The application provides a clean user interface for admin to manage the bookings and the lessons
 
 ## Installation
 
@@ -105,7 +108,7 @@ git clone https://github.com/eipi717/BookingSystemAPI.git
 ```
 
 #### Step 2 - Open the project
-Open the project using whatever IDE you want, IntelliJ is reccomended
+Open the project using whatever IDE you want, IntelliJ is recommended
 
 #### Step 3 - Edit `application.properties`
 1. Edit the Database details
